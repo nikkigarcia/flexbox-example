@@ -25,3 +25,7 @@
 .box2{
     width: 500px;
 }
+.second{
+    display: flex;
+    align-self: flex-start;
+}
