@@ -5,7 +5,7 @@
     border: 1px solid black;
     height: 600px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: flex-end;
 }
 .box{
@@ -15,7 +15,7 @@
     font-size: 100px;
     
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
